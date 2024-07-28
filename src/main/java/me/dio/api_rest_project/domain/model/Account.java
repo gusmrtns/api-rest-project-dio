@@ -17,10 +17,10 @@ public class Account {
     private String agency;
 
     // 13 digits and 2 decimal places
-    @Column(scale = 13, precision = 2)
+    @Column(precision = 13, scale = 2)
     private BigDecimal balance;
     // 13 digits and 2 decimal places
-    @Column(name = "available_limit", scale = 13, precision = 2)
+    @Column(name = "available_limit", precision = 13, scale = 2)
     private BigDecimal limit;
 
     public BigDecimal getLimit() {
