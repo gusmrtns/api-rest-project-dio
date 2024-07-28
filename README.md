@@ -55,4 +55,4 @@ classDiagram
 
 ## IMPORTANTE
 
-Este projeto foi construído reproduzindo um modúlo de Spring Boot da plataforma DIO
+Este projeto foi construído reproduzindo um módulo de Spring Boot da plataforma DIO
